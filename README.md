@@ -1,6 +1,6 @@
 # MyFirstApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5. To see app follow the link: https://tkhristina.github.io/CV-Angular/
 
 ## Development server
 
