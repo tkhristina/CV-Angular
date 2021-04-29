@@ -1,0 +1,21 @@
+.container{
+	width: 1000px;
+    margin:0 auto;	
+}
+
+.status{
+    font-size: 100px;
+    font-weight: 500;
+}
+
+p{
+    font-size: 20px;
+	line-height: 30px;
+	
+}
+
+.page-not-found{
+    padding: 100px 0;
+    text-align: center;
+    color: #70706d;
+}
